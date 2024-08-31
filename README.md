@@ -1,6 +1,6 @@
  Hello! I'm Archita Paul ^o^
 
-🌟** Data Analyst** | BTech in IoT, Cybersecurity & Blockchain
+🌟 Data Analyst| BTech in IoT, Cybersecurity & Blockchain
 
 I am a passionate Data Analyst with a good foundation in data manipulation, analysis, and visualization. I've completed impactful projects utilizing Pandas, SQL,Power BI and successfully delivered client presentations during my virtual internship at Accenture.
 
