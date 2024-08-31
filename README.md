@@ -32,3 +32,6 @@ A collaborative mindset, always eager to learn and innovate.
 🚀 Let's connect and explore how data can drive innovation!...
 
 
+[![Archita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archi20876)](https://github.com/Archi20876/github-readme-stats)
+
+
