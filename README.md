@@ -1,4 +1,13 @@
- Hello! I'm Archita Paul ^o^
+ <h1 align="center">
+   🍀 Welcome to my GitHub Profile! 
+</h1>
+<h2 align="center">Hi, I'm Archita Paul!😊  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2AC88&background=FFFD5300&center=true&vCenter=true&multiline=true&width=435&height=100&lines=An+Aspiring+Data+Analyst" alt="Typing SVG" />
+</a></p>
+
+# 💁‍♀️About Me
 
 🌟 Data Analyst| BTech in IoT, Cybersecurity & Blockchain
 
@@ -8,23 +17,33 @@ I am a passionate Data Analyst with a good foundation in data manipulation, anal
 
 🔧 Skills:
 
-Pandas & SQL: Intermediate proficiency in  data manipulation, cleaning, and querying to extract meaningful insights.
+##### Pandas & SQL: Intermediate proficiency in  data manipulation, cleaning, and querying to extract meaningful insights.
 
-Power BI & Excel: Building intuitive dashboards and visualizations to drive data-driven decisions.
+##### Power BI & Excel: Building intuitive dashboards and visualizations to drive data-driven decisions.
 
-Data Modeling: Structuring and managing databases for efficient analysis.
+##### Data Modeling: Structuring and managing databases for efficient analysis.
 
-Basic Java: Understanding of object-oriented programming and basic algorithms.
+##### Basic Java: Understanding of object-oriented programming and basic algorithms.
 
 
 
 💡 What I Bring:
 
-A unique blend of technical skills in IoT, Cybersecurity, and Blockchain.
+##### A unique blend of technical skills in IoT, Cybersecurity, and Blockchain.
 
-The ability to turn complex data sets into actionable insights with clear, compelling narratives.
+##### The ability to turn complex data sets into actionable insights with clear, compelling narratives.
 
-A collaborative mindset, always eager to learn and innovate.
+##### A collaborative mindset, always eager to learn and innovate.
+
+
+<h3 align="left">Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"> </h3>
+
+<p align="left">
+  <a href="mailto:architapaul1972@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white">
+  </a>
+</p>
+
 
 
 
